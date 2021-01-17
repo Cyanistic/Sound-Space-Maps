@@ -2,12 +2,9 @@ USE AT YOUR OWN RISK.
 Do not blame me if you get banned!
 it is against the sound space rules to use official map data in custom form.
 i am already banned so uploading these do not effect me.
-
+click on "go to" when in the repository to see all the maps
 
 This update released 12/14/2020.
-a search funcion can be found here!
-https://github.com/MrFieryPotato/Sound-Space-Maps/find/master
-
 
 other outdated lists can be found here
 https://github.com/MrFieryPotato/All-Official-Sound-Space-Maps-outdated/blob/main/--README
