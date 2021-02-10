@@ -4,3 +4,4 @@ it is against the sound space rules to use official map data in custom form.
 click on "go to" to see all the maps
 
 This update released 12/14/2020.
+Last update Added mapper names!
